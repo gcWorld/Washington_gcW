@@ -106,3 +106,5 @@ z_ortho_Washington_v6a/
 zzz_Treelines_Farms_Europe_v2/
 zzz_Treelines_Farms_North_America_v2/
 zzz_hd_global_scenery4/
+*.xorg
+earth.wed.bak.xml
